@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">מחולל ברכות</string>
+    <string name="hint_name">שם המקבל/ת</string>
+    <string name="hint_message">משפט אישי (לא חובה)</string>
+    <string name="style_label">סגנון הברכה</string>
+    <string name="style_classic">קלאסי</string>
+    <string name="style_funny">מצחיק</string>
+    <string name="style_short">קצר וקולע</string>
+    <string name="create_button">צור ברכה</string>
+    <string name="back_button">חזרה</string>
+    <string name="save_button">שמור לרשימה</string>
+    <string name="saved_list_title">הברכות ששמרתי</string>
+</resources>
